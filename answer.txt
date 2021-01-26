@@ -1,0 +1,1 @@
+An attribute essentially provides additional information about elements.
